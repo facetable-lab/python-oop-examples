@@ -11,7 +11,7 @@ def drive():
 c = Car()
 # Нет ошибки
 print(Car.drive())
-# Ошибка, так как это функция класса, а не метод
+
 
 
 print(c.drive())
