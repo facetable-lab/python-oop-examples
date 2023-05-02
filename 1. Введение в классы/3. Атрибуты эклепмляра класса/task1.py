@@ -10,6 +10,6 @@ car.model = 'LADA'
 car.engine = 1.8
 print(car.__dict__)
 
-# Удаление атрибута экземпляра
+
 del car.model
 print(car.__dict__)
